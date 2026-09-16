@@ -2,13 +2,14 @@
 
 ## Team Members
 
-- 
-- 
-- 
+- Brinda
+- Sarahi
+- Soleil
+- Jacqueline 
 
 ## Did your team use GitHub Copilot?
 
-- [ ] No
+- [ x ] No
 - [ ] Yes
 
 If yes, complete the sections below.
@@ -33,4 +34,5 @@ Explain what your team did after receiving the Copilot guidance.
 ## Team Explanation
 
 In 2–4 sentences, explain one part of your final program that your team understands well.
+We understood how to loop through each value in the arry to find out the highest and the lowest number 
 
